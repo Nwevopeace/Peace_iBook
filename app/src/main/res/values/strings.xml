@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PeaceCodes_iBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboard_text">Reading is a conversation. All \nbook\'s talk but a good book listens \nas well.</string>
+    <string name="proceed_text">You\'re all set and ready to starting your favorite books.</string>
+    <string name="logo">logo</string>
+    <string name="we_re_glad_to_have_you_back">We\'re glad to have you back</string>
+    <string name="green_logo">green_logo</string>
+    <string name="signin_image">signIn_image</string>
+    <string name="email_address">Email Address</string>
+    <string name="reginaldabiepepple_gmail_com">reginaldabiepepple@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="sparta7699">sparta7699</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_to_ibook">New to iBook?</string>
+    <string name="set_up_an_account">Set up an account</string>
+</resources>
